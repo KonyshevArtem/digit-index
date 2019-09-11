@@ -11,12 +11,10 @@ of numbers from zero to infinity or from one to infinity
 
     import digit_index
     
-    digit = digit_index.get_digit_zero_based(0) # get digit 
-    # on index in string of numbers from zero to infinity 
+    digit = digit_index.get_digit_zero_based(0) # get digit on index in string of numbers from zero to infinity 
     print(digit) # 0
     
-    digit = digit_index.get_digit_one_based(0) # get digit 
-    # on index in string of numbers from one to infinity
+    digit = digit_index.get_digit_one_based(0) # get digit on index in string of numbers from one to infinity
     print(digit) # 1
     
 # License
