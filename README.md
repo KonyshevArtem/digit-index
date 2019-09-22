@@ -1,4 +1,5 @@
-# Digit-Index
+# Digit-Index 
+<a href="https://pypi.org/project/digit-index/"><img alt="" src="https://img.shields.io/badge/pypi-1.0-blue.svg"></a>
 
 This package contains an effective algorithm for finding what
 digit is placed on certain 0-based index in string
